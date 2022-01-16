@@ -3,7 +3,7 @@
 
 <hr width = "300vw">
 
-<h3 align="center">Hello, I'm RadinPirouz</h3>
+<h3 align="center">Hi, I'm RadinPirouz</h3>
   
 <hr width = "300vw">
 
@@ -27,7 +27,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/587998193963237387)](https://discord.com/users/587998193963237387)
 
   
-<h3>📕 Stats<h3>
+<h3>📡 Stats<h3>
 
 <hr width = "500vw">
 
