@@ -37,5 +37,5 @@
 
 <hr width = "500vw">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadinPirouz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadinPirouz&layout=compact&theme=dark)
   
