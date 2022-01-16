@@ -16,7 +16,7 @@
 
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
-|Jareet's Community|[Discord](https://dsc.gg/Jaareet)|My Community's Discord Server|
+|AR Community|[Discord](https://discord.gg/JvDehCMBje)|My Community's Discord Server|
 <hr width = "500vw">
 
   
