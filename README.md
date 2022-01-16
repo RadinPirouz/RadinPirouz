@@ -20,7 +20,7 @@
 <hr width = "500vw">
 
   
-<img src = "discord.png" width = "50"> <h4>MY DISCORD'S PROFILE</h4>
+<img src = "discord-icon-png-24.jpg" width = "50"> <h4>MY DISCORD'S PROFILE</h4>
 <hr width = "500vw">
   
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/587998193963237387)](https://discord.com/users/587998193963237387)
