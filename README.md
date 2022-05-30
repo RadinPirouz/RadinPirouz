@@ -1,7 +1,7 @@
 ## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4kBbHHx7Bj) 
-<img src="https://img.shields.io/discord/803577880410980364?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
-
+ <p><a href="https://discord.gg/overextended">
+     <img src="https://img.shields.io/discord/803577880410980364?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+ </a></p>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radinpirooz) 
 
 # 💻Tech Stack
