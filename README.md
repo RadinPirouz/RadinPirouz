@@ -12,16 +12,6 @@
 
 ---
 
-### 🌐 Socials
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-</p>
-
----
-
 ### 🛠 Tools & Tech
 
 <p align="center">
